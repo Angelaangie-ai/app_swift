@@ -1,0 +1,954 @@
+[
+    {
+        "name": "Easton Public Market",
+        "category": "Markets",
+        "city": "Easton",
+        "state": "Pennsylania",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.20581,
+            "latitude": 40.69006
+        },
+        "description": "The Easton Public Market is a locally-driven community market that offers high quality grocery shopping and an array of dining experiences - a unique blend of artisanal food vendors, a full service farmstand (SNAP accepted), and restaurants offering many different culinary influences.  A state of the art teaching kitchen features culinary classes, chef demos and dining experiences. Like the historic Easton Farmers' Market, the Easton Public Market offers a vibrant, community gathering space that showcases the Lehigh Valley’s local food culture!",
+        "imageName": "easton_farmers_market"
+    },
+    {
+        "name": "Blue Marsh Market",
+        "category": "Markets",
+        "city": "Bernville,Berks",
+        "state": "Pennsylvania",
+        "id": 1001,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude":-76.11260,
+            "latitude": 40.43250,
+        },
+        "description": "Organic Grocery Store specializing in our own homegrown organic produce. We also have a large selection of gluten-free products and much more.",
+        "imageName": "blue_market"
+    },
+    {
+        "name": "Crystal Spring Farm",
+        "category": "Farms",
+        "city": "Schnecksville",
+        "state": "Pennsylvania",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.59603,
+            "latitude": 40.68396
+        },
+        "description": "Here at Crystal Spring Farm, we only offer you the freshest milk, ice cream, and beef products. We always strive for greatness. Our retail store is open daily and features our fresh milk, homemade ice cream, homegrown beef products, homemade pies and cakes, as well as a busy deli, and grocery items. Our homemade ice cream is made using the milk and cream fresh from our dairy herd.We are proud to be one of few dairy farms that not only raises cattle, grows our own feed, but also bottles our own milk products and packages our own ice cream.",
+        "imageName": "crystal_farm"
+    },
+    {
+        "name": "Bernard's Green Valley Farm",
+        "category": "Farms",
+        "city": "Browning",
+        "state": "Montana",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "We are a family farm specializing in Christmas trees, wreaths, and roping in the winter and pick your own blueberries in the summer. We also hand craft artisan jams, jellies, and preserves utilizing what we grow on our farm and that of our neighboring farms.",
+        "imageName": "bernand_green_valley"
+    },
+    {
+        "name": "Flint Hill Farm Educational Center",
+        "category": "Organizations",
+        "city": "Twin Lakes",
+        "state": "Alaska",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "Flint Hill Farm Educational Center and Dairy is a nonprofit Agro-Educational Center serving the Greater Lehigh Valley since 2006. We host approximately 3000+students, teachers and families through our tours, summer camps, OPEN HOUSE events, classes, individual family visits and store visitors yearly. Supporting our goat and cow dairy directly supports our community outreach opportunities.",
+        "imageName": "flint_hill_farm"
+    },
+    {
+        "name": "LaFarm, The Lafayette College Community Garden & Working Farm",
+        "category": "Organizations",
+        "city": "Easton",
+        "state": "Pennsylvania",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "LaFarm is a sustainability initiative at the College and the cornerstone of the Lafayette College Sustainable Food Loop. Our mission is to integrate curriculum and practice in sustainable food and agriculture for the campus community. We grow produce for the dining halls, recycle nutrients from composted food back to the soil, and serve as a laboratory for collaborative student-faculty education and research.",
+        "imageName": "lafarm"
+    },
+    {
+        "name": "Bethlehem Food Co-Op",
+        "category": "Markets",
+        "city": "Bethlehem",
+        "state": "Pennsylvania",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "We plan to open a community owned and operated grocery store in downtown Bethlehem. Our goals are to offer healthy, affordable, locally-focused food and informational workshops in a convenient neighborhood location.",
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Eat Real Food Mobile Market - Winter",
+        "category": "Markets",
+        "city": "Tatamy",
+        "state": "Pennsylvania",
+        "isMeat":true,
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Kellyn is excited to continue offering you healthy, affordable, and fresh foods throughout this Fall/Winter season!  All orders must be made online a day in advance.  Orders are being packed in our commercial kitchen and able to be picked up at the following sites (Easton, Bethlehem. Allentown) listed below.  Please note, less time will be spent at each site and there will not be extra food on mobile market to purchase in person.",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Local Leaf Market",
+        "category": "Markets",
+        "city": "Oley",
+        "state": "Pennsylvania",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.767,
+            "latitude":  40.38
+        },
+        "description": "Local Leaf Market is a grocery focused on providing access to fresh, healthy & nutritious products sourced primarily from LOCAL Growers & Producers. Previously known as Oley Valley Organics Market.",
+        "imageName": "local"
+    },
+    {
+        "name": "Nature's Way",
+        "category": "Markets",
+        "city": "Easton",
+        "state": "Pennsylvania",
+        "id": 1014,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.2,
+            "latitude": 40.92
+        },
+        "description": "We are an independent health food store established in 1975, located in downtown Easton.  Our store is bright and comfortable with a knowledgeable staff ready to help. We specialize in local products such as honey, pastured milk, eggs, meats and raw cheeses.  We also carry local produce and fermented vegetables.  We’re proud to carry locally made supplements and body care lines as well.  We have a full bulk section of herbs and spices, nuts, beans, and grains.",
+        "imageName": "natures"
+    },
+    {
+        "name": "Renninger's Antique and Farmers' Market",
+        "category": "Markets",
+        "city": "Kutztown",
+        "state": "Pennsylvania",
+        "id": 1016,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.78,
+            "latitude": 40.6
+        },
+        "description": "Our butchers offer the fullest line of fresh and smoked meats (A trademark of the Penna. Dutch area), produce, fish poultry, candy, snacks,& baked goods. There is a fabulous Folk Art Shoppe, along with flower & novelty stores. Attached to the Market is 200 Indoor Booths filled with Antiques & Collectibles, Outdoor and Pavilion Flea Market catering to the antiques & collectors trade on Saturdays. Special Antiques Extravaganzas featuring hundreds of dealers April, June, & September. Antiques Radio Swapmeet May & September, and more!",
+        "imageName": "reningerz"
+    },
+    {
+        "name": "Wanamakers General Store",
+        "category": "Markets",
+        "city": "Kempton",
+        "state": "Pennsylvania",
+        "id": 1017,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.84,
+            "latitude": 40.661
+        },
+        "description": "A slice of local history, Wanamakers Generals Store was founded in 1886 and operates from its original brick and mortar building nestled among the rolling hills of Kempton PA. Through our collaboration with many local businesses, growers, and artisans, we offer a unique shopping experience. Visit our deli for an exciting selection of hoagies, wraps, and salads made to order. Stock your pantry with our wide variety of dry goods, bulk foods and fresh local produce. Visit the Grab and Go cooler stocked with fresh sliced deli meats, cheeses or try one of our seasonal salads made fresh on premise with ingredients from our organic garden.",
+        "imageName": "wanamakers"
+    },
+    {
+        "name": "High Point Kombucha",
+        "category": "Markets",
+        "city": "Allentown",
+        "state": "Pennsylvania",
+        "id": 1018,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.47,
+            "latitude": 40.59
+        },
+        "description": "High Point Kombucha is a small single-batch, 100% raw, unfiltered, and naturally-carbonated product.   All flavors are created using whole fruits, vegetables, and herbs, never using juices or concentrates.  Flavors are developed to showcase the Lehigh Valley's seasonal harvests, and new flavors are always being explored.  My on-going mission is to make kombucha approachable, delicious, healthful, and a responsible part of the Lehigh Valley food culture.  With a passion for health and local food, I strive to always improve with the goal of making the most locally-sourced, wholesome bottle of kombucha I can!",
+        "imageName": "komb"
+    },
+    {
+        "name": "Valley Milkhouse",
+        "category": "Markets",
+        "city": "Oley",
+        "state": "Pennsylvania",
+        "id": 1019,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.73,
+            "latitude": 40.379
+        },
+        "description": "Valley Milkhouse is an artisan creamery producing fresh and aged cheeses, butter and yogurt. We are inspired by the European cheesemaking tradition, making primarily French and Dutch styles. We handcraft each cheese with special attention to texture and flavor, and we seek to allow the terroir of the region to shine. Our milk comes from Spring Creek Farm and Dutch Meadows Dairy -- both certified organic dairies feeding their cows a 100% grass-based diet. Spring Creek's herd is a mix of Jersey, Ayrshire and Holstein breeds. Dutch Meadows raises the rare Dutch belted breed of cattle, known for its delicate and easily digestible milk.",
+        "imageName": "valley"
+    },
+    {
+        "name": "Meals On Wheels of the Greater Lehigh Valley",
+        "category": "Markets",
+        "city": "Bettlehem",
+        "state": "Pennsylvania",
+        "id": 1020,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.430,
+            "latitude": 40.631
+        },
+        "description": "We use as much local farm fresh produce as possible to prepare over half a million meals per year for seniors and people with disabilities in Lehigh and Northampton Counties. Meals are home-delivered to our seniors by a dedicated core of 1,500 volunteers.",
+        "imageName": "wheels"
+    },
+    {
+        "name": "Eight Oaks Farm Distillery",
+        "category": "Markets",
+        "city": "New Tripoli",
+        "state": "Pennsylvania",
+        "id": 1021,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.745,
+            "latitude": 40.698
+        },
+        "description": "Eight Oaks Craft Distillers is a veteran-owned farm distillery. We raise all our own grains on site or on neighboring farms. We also source local ingredients from other farms and orchards like Scholl Orchards in Kempton. We craft all of these fresh, locally raised ingredients into wonderful spirits. Stop in and enjoy a tasting, tour, or just a cocktail in our tasting room.",
+        "imageName": "eightoaks"
+    },
+    {
+        "name": "Curious Goods at The Bake Oven Inn",
+        "category": "Markets",
+        "city": "Germansville",
+        "state": "Pennsylvania",
+        "id": 1022,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.71378,
+            "latitude": 40.71
+        },
+        "description": "Nestled just below the famous Bake Oven Knob, from which the original inn gets its name, awaits a delicious sampling of Curious Goods. Join us for a truly unique, intimate farm-to-table dining experience in our historic country inn, located in the midst of rural farm & horse country. Our award-winning menu focuses on seasonal, local ingredients with a “curious” twist. We also offer a wide variety of specialty drinks, wines & craft beers. We are friendly people with a passion for exquisite food and fresh local ingredients.",
+        "imageName": "goods"
+    },
+    {
+        "name": "Green Harvest Food Emporium",
+        "category": "Markets",
+        "city": "Easton",
+        "state": "Pennsylvania",
+        "id": 1023,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.20631,
+            "latitude": 40.69133
+        },
+        "description": "Green Harvest Food Emporium’s green philosophy is to buy local, serve fresh and do right by the environment. Our gourmet deli features menu items such as home-made wraps, sandwiches, salads, soups, and paninis. We accommodate many different diets by offering vegan and vegetarian menu items and gluten free meals as well. We also offer fresh baked goods made on-site and express drinks. We are the preferred caterer for the Grand Eastonian Suites Hotel and offer off-site catering as well.",
+        "imageName": "greenh"
+    },
+    {
+        "name": "Switchback Pizza",
+        "category": "Markets",
+        "city": "Emmaus",
+        "state": "Pennsylvania",
+        "id": 1024,
+        "isFeatured": true,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.493,
+            "latitude": 40.533
+        },
+        "description": "Neapolitan pizza cooked at 900 degrees in our Italian wood oven for you to enjoy with family and friends. The inspiration for our pizzas comes from the bounty of our local farms allowing us to bring farm-to-table pizza to you at our restaurant in Emmaus.At our online provisions store you will find a variety of products from local producers as well as breads made in our pizza oven that can be ordered ahead and picked up at the restaurant. Our frozen pizza can be purchased at several local farm markets, including Salvaterra's. We also offer Red Balloon Cider- hard cider made from 100% PA sourced apples.",
+        "imageName": "sback"
+    },
+    {
+        "name": "Twisted Olive",
+        "category": "Markets",
+        "city": "Emmaus",
+        "state": "Pennsylvania",
+        "id": 1025,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "A casual bistro with a world twist, offering infused liquors, unique cocktails, & amp; delicious food, all with a commitment to the freshest ingredients.",
+        "imageName": "tolive"
+    },
+    {
+        "name": "Bath Farmers' Market",
+        "category": "Markets",
+        "city": "Emmaus",
+        "state": "Pennsylvania",
+        "id": 1026,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.394,
+            "latitude": 40.726
+        },
+        "description": "Bath Farmers Market is an open-air, producer-only market. Founded in 2009. The market is held weekly on Saturdays 9 a.m. to 12 p.m. mid-May through the end of September. Featuring fresh, seasonal locally grown produce. Eggs, meats, Smoked cheeses, beef jerky, prepared foods such as smoothies, artisan breads, peanut butter, pies, honey, breakfast and lunch type foods, dog treats and local spirits. Events include Kids’ Day, Tomato Fest, the Little Miss Strawberry contest, Northampton Public Library every third Saturday events, Demos and fundraising events. Dog friendly, Free parking. 16 vendors.",
+        "imageName": "beths-1"
+    },
+    {
+        "name": "Social Still Distillery",
+        "category": "Markets",
+        "city": "Bethlehem",
+        "state": "Pennsylvania",
+        "id": 1027,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.37087,
+            "latitude": 40.61220
+        },
+        "description": "Are we a restaurant? A Bar? A Distillery? Yes! We are all those things.  We built our facility inside a prohibition era bank building – a building that is an institution to the great south side of Bethlehem. Inside you will find a one-of-a-kind tasting room. Come in and enjoy our signature cocktails paired perfectly to our incredible food menu in a sophisticated environment. Come in for lunch, dinner, tastings, tours, or just to grab a bottle.  We produce ultra-premium spirits in the heart of the Lehigh Valley, using Pennsylvania grown grains.  Stop by and see just how good life can taste.",
+        "imageName": "social"
+    },
+    {
+        "name": "Franklin Hill Vineyards",
+        "category": "Markets",
+        "city": "Franklin Hill Rd",
+        "state": "Pennsylvania",
+        "id": 1028,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.20158,
+            "latitude": 40.80686
+        },
+        "description": "Franklin Hill Vineyards is so proud to be one of the first woman owned and women operated wineries in PA.  We've been creatively crafting some of our states favorite wines since 1982. We pride ourselves on our green and socially conscious practices and power our facility with the sun.  We hope you'll stop by for a tasting and stay for a flight of our award winning wines and hand crafted sangria's.  We have a delicious snack menu, local beers, and even wine slushie's in the summertime.  We love showing our friends around our facility so if you'd like to see where the magic happens...just ask us while you're here!.",
+        "imageName": "franklin"
+    },
+    {
+        "name": "Bethlehem Farmers' Market",
+        "category": "Markets",
+        "city": "Bethlehem",
+        "state": "Pennsylvania",
+        "id": 1029,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.37786,
+            "latitude": 40.61102
+        },
+        "description": "We offer fresh produce, lunch items, baked goods, and more to Bethlehem and Lehigh Valley residents. Our producer-only farmers' market operates as a community service to SouthSide Bethlehem - we don't charge for spots. Our goal is to make fresh local produce and food readily available to our community.",
+        "imageName": "beth"
+    },
+    {
+        "name": "Macungie Farmers' Market",
+        "category": "Markets",
+        "city": "Macungie",
+        "state": "Pennsylvania",
+        "id": 1030,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.55314,
+            "latitude": 40.51650
+        },
+        "description": "The Macungie Farmers Market is a producer/grower market committed to providing locally grown, fresh food, preserving our agricultural heritage and building community.  The Market supports local agriculture by connecting farmers direct to consumers.  This means you buy directly from the farmers and artisans themselves, not from third parties or re-sellers. Locally grown and handmade products straight to you, the consumer.",
+        "imageName": "mac"
+    },
+    {
+        "name": "Emmaus Farmers' Market",
+        "category": "Markets",
+        "city": "Emmaus",
+        "state": "Pennsylvania",
+        "id": 1031,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.491,
+            "latitude": 40.536
+        },
+        "description": "The Emmaus Farmers' Market is held rain or shine. The mission of the market is to provide the Emmaus community with a source of safe, locally produced, highly nutritious produce while educating the public, including farmers, on the benefits of supporting local agriculture in order to preserve farmland in the surrounding area, improve individual health and strengthen community. The market is more than just a place to buy local, high quality, produce from small family farms and businesses; it is also a place to meet friends, neighbors and family.",
+        "imageName": "emmaus"
+    },
+    {
+        "name": "Nazareth Farmers' Market",
+        "category": "Markets",
+        "city": "Nazareth",
+        "state": "Pennsylvania",
+        "id": 1032,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.056816,
+            "latitude": 44.747408
+        },
+        "description": "The Nazareth Farmers Market offers a wide variety of seasonal fruits and vegetables, grass-fed beef, poultry, smoked cheese, fresh baked goods and breads, kiffles, peanut butter, coffee, and so much more. Also enjoy live music and activities.",
+        "imageName": "nazareth"
+    },
+    {
+        "name": "Bethlehem Rose Garden Farmers Market",
+        "category": "Markets",
+        "city": "Historic Bethlehem Rose Garden",
+        "state": "Pennsylvania",
+        "id": 1033,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.39511,
+            "latitude": 40.62357
+        },
+        "description": "The purpose of the  Bethlehem Rose Garden Farmers Market  is to provide a thriving outlet to directly connect consumers and producers of local food products, and to foster community relations within the over 6,000 households on the West Side of Bethlehem. Saturdays at the Historic Rose Garden 9-1 pm (corner of 8th Avenue and Broad Street/Raspberry)Easy parking, childrens playground, picnic area and benches,  on-site bathrooms.",
+        "imageName": "download"
+    },
+    {
+        "name": "Northampton Borough Farmers Market",
+        "category": "Markets",
+        "city": "Northampton",
+        "state": "Pennsylvania",
+        "id": 1034,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.49035,
+            "latitude": 40.68387
+        },
+        "description": "Northampton Borough Farmers Market brings fresh, locally grown produce, grass-fed pork and beef, baked goods, libations, peanut butter, and more to our community every Tuesday, May to mid-September, from 3-6:30pm. You can also enjoy sliders and gourmet hot dogs from our new food truck vendor! We are located conveniently in the pavillions next to the borough playground on Laubach Avenue, where you can shop in the shade - rain or shine!",
+        "imageName": "farmers"
+    },
+    {
+        "name": "Saucon Valley Farmers' Market",
+        "category": "Markets",
+        "city": "Hellertown",
+        "state": "Pennsylvania",
+        "id": 1035,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.33132,
+            "latitude": 40.57733
+        },
+        "description": "Saucon Valley Farmers Market @ the Hellertown Library offers the freshest seasonal produce and unique specialty products from local business every Sunday from May to November!",
+        "imageName": "saucon"
+    },
+    {
+        "name": "Trexlertown Farmers' Market",
+        "category": "Markets",
+        "city": "Breinigsville",
+        "state": "Pennsylvania",
+        "id": 1036,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.61107,
+            "latitude": 40.54729
+        },
+        "description": "Trexlertown Farmers’ Market was created by a group of local farmers as a way to engage with our neighbors in Western Lehigh and Eastern Berks Counties, the same communities in which we live, work, and raise our families. The focus of the market is to provide access to locally grown and raised products directly from the producers themselves. No middlemen, no aggregators, no wholesalers. All of our Growers & Producers are located within a 30 mile radius of the market and are committed to delivering the highest quality local products available at their peak of freshness. Come taste the difference!",
+        "imageName": "umbagog"
+    },
+    {
+        "name": "Crystal Spring Farm",
+        "category": "Markets",
+        "city": "Schnecksville",
+        "state": "Pennsylvania",
+        "id": 1037,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.59607,
+            "latitude": 40.68467
+        },
+        "description": "Here at Crystal Spring Farm, we only offer you the freshest milk, ice cream, and beef products. We always strive for greatness.Our retail store is open daily and features our fresh milk, homemade ice cream, homegrown beef products, homemade pies and cakes, as well as a busy deli, and grocery items. Our homemade ice cream is made using the milk and cream fresh from our dairy herd. We are proud to be one of few dairy farms that not only raises cattle, grows our own feed, but also bottles our own milk products and packages our own ice cream.",
+        "imageName": "summer"
+    },
+    {
+        "name": "Bernard's Green Valley Farm",
+        "category": "Markets",
+        "city": "Slatington",
+        "state": "Pennsylvania",
+        "id": 1038,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.60309,
+            "latitude": 40.7244
+        },
+        "description": "We are a family farm specializing in Christmas trees, wreaths, and roping in the winter and pick your own blueberries in the summer. We also hand craft artisan jams, jellies, and preserves utilizing what we grow on our farm and that of our neighboring farms. Our hours for pick your own blueberries are: mid/ late June through late August, sun up until sun down. For the Christmas tree season we are open the day after Thanksgiving until Christmas Eve.",
+        "imageName": "bernand"
+    },
+    {
+        "name": "BAD Farm",
+        "category": "Markets",
+        "city": "Coopersburg",
+        "state": "Pennsylvania",
+        "id": 1039,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.87726,
+            "latitude": 40.63046
+        },
+        "description": "We are proud to be a family owned and operating dairy farm at the base of Hawk Mountain in Kempton, PA. We currently are milking 100 Holstein cows, our heifers calves are raised to be bred and join the milking herd and our bull calves are all raised for butcher beef. We crop farm 450 acres. Along with 250 laying hens. The farm has a PA Raw Milk Permit which enables us to sell Raw Milk directly from the farm and off the farm. A portion of the milk produced on our farm is made into aged raw milk cheese that is aged a minimum of 60 days, an assortment of yogurt. Our farm stand is always open!",
+        "imageName": "badf"
+    },
+    {
+        "name": "Kromer Meats",
+        "category": "Markets",
+        "city": "Easton",
+        "state": "Pennsylvania",
+        "id": 1041,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.12161,
+            "latitude": 40.85492
+        },
+        "description": "Kromer Meats is owned by Brian and Samantha Kromer along with their two children, Caleb and Addison. Established in 2020, Brian has been raising beef with his grandfather for over 20 years. Our monthly CSA shares include lean ground beef, as well as a mix of specially cuts such as Tenderloin steaks, Rib eye steaks, Sirloin steaks, Strip steaks, London Broil or Flank and Skirt steaks. Also included could be pot roasts or oven roasts, brisket, short ribs, meaty soup bones, or stew meat. Our CSA allows a family to buy meat at a reduced price and receive it in quantities that will fit in your regular size refrigerator-freezer.",
+        "imageName": "kromer"
+    },
+    {
+        "name": "Blue Valley Farm Market",
+        "category": "Markets",
+        "city": "Bangor",
+        "state": "Pennsylvania",
+        "id": 1043,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.23134,
+            "latitude": 40.86966
+        },
+        "description": "The Blue Valley Farmers Market Strives to provide fresh, local produce to our community.",
+        "imageName": "valley-1"
+    },
+    {
+        "name": "Burnside Plantation",
+        "category": "Markets",
+        "city": "Bethlehem",
+        "state": "Pennsylvania",
+        "id": 1044,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.38941,
+            "latitude": 40.63136
+        },
+        "description": "From the time of its original purchase by James and Mary Burnside until today, this site has remained a farm. Today, Burnside Plantation is an historic site interpreting farming and farm life from 1748-1848 in this Moravian community.",
+        "imageName": "burnside"
+    },
+    {
+        "name": "Cattle Creek Farms",
+        "category": "Markets",
+        "city": "Nazareth",
+        "state": "Pennsylvania",
+        "id": 1045,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "We are a family owned company determined to provide safe and wholesome meats for our customers, while bridging the gap between producer and consumer.",
+        "imageName": "creek"
+    },
+    {
+        "name": "Eagle Point Farm Market & Greenhouses",
+        "category": "Markets",
+        "city": "Nazareth",
+        "state": "Pennsylvania",
+        "id": 1046,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.60685,
+            "latitude": 40.55848
+        },
+        "description": "We at Eagle Point have been growing sustainable for the past 41 years at our farm in Kutztown, PA. We have been selling retail at our Trexlertown location for 36 years. We pride ourselves in growing the best quality selling at fair prices and offering a great selection from our bedding plants to produce to our handmade Christmas wreathes. Please visit our website for more detail on our growing practices as well as what we offer.",
+        "imageName": "eaglepoint"
+    },
+    {
+        "name": "Covered Bridge Farm",
+        "category": "Markets",
+        "city": "Lehigh",
+        "state": "Pennsylvania",
+        "id": 1047,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.18586,
+            "latitude": 43.06503
+        },
+        "description": "Covered Bridge Farm is a local family run farm operated by the Hower Family specializing in fresh seasonal produce, seasonal decorations in the fall, and fresh evergreen holiday decorations in the winter. the farm offers a full range of produce from asparagus to zucchini.  Seasonal fall decorations include pumpkins, gourds, and other items. wreaths, swags, and memorial decorations are some of the fresh evergreen items we provide during the holiday season. The Howers look forward to seein gyou this year!",
+        "imageName": "covered"
+    },
+    {
+        "name": "Rodale Institute",
+        "category": "Markets",
+        "city": "Berks",
+        "state": "Pennsylvania",
+        "id": 1048,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.72012,
+            "latitude": 40.55047
+        },
+        "description": "The Rodale Institute operates a farm stand at the Allentown YMCA delivering fresh organic produce to the community on a weekly basis June through October at an affordable price. Pay with cash, credit, EBT/SNAP, and participate in the Lehigh Valley Fresh Food Bucks program. Other organic products are available to add-on seasonally.",
+        "imageName": "rodale"
+    },
+    {
+        "name": "Dale Koehler & Sons Farm LLC",
+        "category": "Markets",
+        "city": "Lehigh",
+        "state": "Pennsylvania",
+        "id": 1049,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.31315,
+            "latitude": 40.64804
+        },
+        "description": "Dale Koehler & Sons Farm is a local family owned and operated farm that specializes in beef and grain production. Nine generations and over 225 years of farming our Bethlehem Township family farm and we are still going strong today! In 2007 Pennsylvania's secretary, Dennis Wolff, awarded our farm with The Bicentennial Award. We love what we do and we wouldn't do anything else!",
+        "imageName": "koehler"
+    },
+    {
+        "name": "Dove Song Dairy",
+        "category": "Markets",
+        "city": "Berks",
+        "state": "Pennsylvania",
+        "id": 1050,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -76.20143,
+            "latitude": 40.45971
+        },
+        "description": "Dove Song Dairy is an old-fashioned family farm located in the rolling hills of Berks County. Our farm uses a milking facility designed to ensure quality conditions for our milk and comfort for our animals. Our 200 goats are individually named and loved by friends and family. We believe in a natural approach to animal husbandry. Our dairy goats, chickens and other livestock are pastured year round and fed a ration made from our own organically grown barley, spelt and sunflower seeds.Farming is our life and we enjoy every part of it, from collecting the eggs to making cheeses and everything in between.",
+        "imageName": "dove"
+    },
+    {
+        "name": "Easton Urban Farm",
+        "category": "Markets",
+        "city": "Berks",
+        "state": "Pennsylvania",
+        "id": 1051,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.21412,
+            "latitude": 40.67494
+        },
+        "description": "The Easton Urban Farm operates on a 5/8 acre plot in Easton's South Side neighborhood.  We are a community-based effort of The Neighborhood Center, and are supported by a strong group of local volunteers.  Our mission is to encourage residents to access healthy food through purchase, cultivation, and sharing.  Our produce is distributed through organizations in the city, including food pantries and farm stands.  Email us if you want to learn more.",
+        "imageName": "easton"
+    },
+    {
+        "name": "Rainbow Farm",
+        "category": "Markets",
+        "city": "Lehigh",
+        "state": "Pennsylvania",
+        "id": 1052,
+        "isFeatured": false,
+        "isMeat":true,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.79391,
+            "latitude": 40.66510
+        },
+        "description": "Rainbow Farm grass fed goodness. We raise our beef, pigs and poultry on rationally grazed pasture. We are Certified Naturally Grown. We do not use antibiotics, growth hormones or GMOs.",
+        "imageName": "rainbow"
+    },
+    {
+        "name": "Epic Acre Farm",
+        "category": "Markets",
+        "city": "Monroe",
+        "state": "Pennsylvania",
+        "id": 1053,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.21412,
+            "latitude": 40.67494
+        },
+        "description": "Specialty produce, pepper sauces, and tomato sauce produced using intensive market garden, organic growing methods. Located between Oley and Kutztown in Berks County Pa.",
+        "imageName": "epic"
+    },
+    {
+        "name": "The Good Farm LLC",
+        "category": "Markets",
+        "city": "Lehigh",
+        "state": "Pennsylvania",
+        "id": 1054,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.70320,
+            "latitude": 40.72484
+        },
+        "description": "The Good Farm is the longest-running certified organic farm in the Lehigh Valley, raising certified organic vegetables, berries, flowers, and herbs for over 200 CSA members, offering both on-farm market-style pickup in beautiful Germansville and boxed share deliveries throughout the Lehigh Valley.",
+        "imageName": "goodfarm"
+    },
+    {
+        "name": "Frecon Farms",
+        "category": "Markets",
+        "city": "Berks",
+        "state": "Pennsylvania",
+        "id": 1055,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.64751,
+            "latitude": 40.32854
+        },
+        "description": "The Good Farm is the longest-running certified organic farm in the Lehigh Valley, raising certified organic vegetables, berries, flowers, and herbs for over 200 CSA members, offering both on-farm market-style pickup in beautiful Germansville and boxed share deliveries throughout the Lehigh Valley.",
+        "imageName": "frecon"
+    },
+    {
+        "name": "Kreeky Tree Farm, LLC",
+        "category": "Markets",
+        "city": "Lehigh",
+        "state": "Pennsylvania",
+        "id": 1056,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.69044,
+            "latitude": 40.74418
+        },
+        "description": "A small organic farm producing and selling local and fresh foods to the region. Shipping available on some items.  Wholesale and retail available. Open for tours. Seasonal products available: Organic whole fryer chickens and parts, chicken eggs, goat’s milk (raw or pasteurized), goat farmer-style cheese and canned goods.",
+        "imageName": "kreeky"
+    },
+    {
+        "name": "Josie Porter Farm",
+        "category": "Markets",
+        "city": "Monroe",
+        "state": "Pennsylvania",
+        "id": 1057,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.22632,
+            "latitude": 40.95629
+        },
+        "description": "The Josie Porter Farm offers high quality, nutritionally dense, chemical free produce and food to our community. For over 13 years farm manager Heidi Secord and husband Gary Bloss have focused on organic and biodynamic farming techniques that enliven the soil.  Biodynamic growers recognize the soil itself to be alive and that human health and vitality depend upon the health and vitality of the soil. You can purchase our products through our CSA, farmstand and at the Easton Public Market. Taste the difference and experience our mission at the farm - connecting people to the earth through agriculture, education and community.",
+        "imageName": "josie"
+    },
+    {
+        "name": "Gauker Farms",
+        "category": "Markets",
+        "city": "Berks",
+        "state": "Pennsylvania",
+        "id": 1058,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.79162,
+            "latitude": 40.47169
+        },
+        "description": "Gauker Farms is an 8th, 9th, and 10th generation, 260-acre crop and beef farm in Fleetwood, Berks County. Lee and Jodi are the 9th generation to operate the farm. They grow corn, soybeans, wheat, and hay, and have about 40 head of Holstein steers, which they buy from within 2 miles of the farm (hyper-local). The steers are fed grain grown on the farm and are on pasture from June through November. Gauker Farms is committed to providing wholesome, delicious beef to our customers – From Our Family Farm to Your Family Table.",
+        "imageName": "gauker"
+    },
+    {
+        "name": "Twin Maple Farms",
+        "category": "Markets",
+        "city": "Lehigh",
+        "state": "Pennsylvania",
+        "id": 1059,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.39761,
+            "latitude": 40.70576
+        },
+        "description": "Twin Maple Farms is owned and operated by the Garry Hunsicker family. It is a third generation farm. Produce is sold in season daily at the farm and at the Bath, Northampton, and Easton Farmers’ Markets.",
+        "imageName": "twin"
+    },
+    {
+        "name": "Gogle Farms",
+        "category": "Markets",
+        "city": "Lehigh",
+        "state": "Pennsylvania",
+        "id": 1060,
+        "isFeatured": false,
+        "isMeat":true,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.39761,
+            "latitude": 40.70576
+        },
+        "description": "Gogle Farms is a family run orchard located near Laurys Station, about 10 miles north of Allentown. We offer a variety of fresh, in-season fruits and vegetables from July to November. With many of our fruit crops, customers have the option of taking a short hayride out to the field to Pick Your Own. We started planting the orchard in 2008, in ground that has been farmed by at least 7 generations of Gogles, and had our first peach season in 2011.",
+        "imageName": "gogle"
+    },
+    {
+        "name": "Hausman Fruit Farm",
+        "category": "Markets",
+        "city": "Lehigh",
+        "state": "Pennsylvania",
+        "id": 1061,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.46056,
+            "latitude": 40.48157
+        },
+        "description": "Our process has been passed down from generation to generation and we continue to take pride in how we get our land and crops ready for you and your family. We only reap the freshest produce for you and your family. By hand-picking all of our produce, you are ensured fresh, and ripe, foods.",
+        "imageName": "hausman"
+    },
+    {
+        "name": "Humming Hills Farm, LLC",
+        "category": "Markets",
+        "city": "Berks",
+        "state": "Pennsylvania",
+        "id": 1062,
+        "isFeatured": false,
+        "isFavorite": false,
+        "isMeat":true,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.88746,
+            "latitude": 40.49813
+        },
+        "description": "Humming Hills Farm specializes in producing the best and freshest microgreens in Berks County. We use all organic principles with our vertical indoor growing. Microgreens are available year-round. We can grow all types of microgreens successfully from Amaranth to Wheatgrass. We also sell Supergreens Microgreens Powders & Salt and G.I.Y. (Grow It Yourself) Microgreens Grow Kits. We offer online ordering, on-farm pickup, farmer's market pickup (check website for markets), or buy locally at farmer's markets.",
+        "imageName": "humming"
+    },
+    {
+        "name": "Oley Valley Organics",
+        "category": "Markets",
+        "city": "Berks",
+        "state": "Pennsylvania",
+        "id": 1062,
+        "isFeatured": false,
+        "isMeat":true,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": -75.88746,
+            "latitude": 40.49813
+        },
+        "description": "Humming Hills Farm specializes in producing the best and freshest microgreens in Berks County. We use all organic principles with our vertical indoor growing. Microgreens are available year-round. We can grow all types of microgreens successfully from Amaranth to Wheatgrass. We also sell Supergreens Microgreens Powders & Salt and G.I.Y. (Grow It Yourself) Microgreens Grow Kits. We offer online ordering, on-farm pickup, farmer's market pickup (check website for markets), or buy locally at farmer's markets.",
+        "imageName": "humming"
+    },
+]
